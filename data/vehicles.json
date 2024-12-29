@@ -1,0 +1,26 @@
+[
+    {
+        "name": "2025 BMW i7",
+        "type": "BMW Car",
+        "price": "106875",
+        "image": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2024-bmw-i7-m70-136-650b22851401e.jpg?crop=0.628xw:0.529xh;0.319xw,0.394xh&resize=1200:*"
+    },
+    {
+        "name": "BMW XM",
+        "type": "BMW Car",
+        "price": "1000000",
+        "image": "https:\/\/www.bmw.com.my\/content\/dam\/bmw\/common\/all-models\/m-series\/xm\/2023\/navigation\/bmw_x-series_xm_modelcard_50.png\/jcr:content\/renditions\/cq5dam.resized.img.585.low.time1681276548689.png"
+    },
+    {
+        "name": "BMW M4 Competition Coup\u00e9",
+        "type": "BMW Car",
+        "price": "9374293",
+        "image": "https:\/\/www.bmw.com.my\/content\/dam\/bmw\/common\/all-models\/m-series\/m4-coupe\/2024\/navigation\/bmw-m-series-m4-coupe-modelfinder.png\/jcr:content\/renditions\/cq5dam.resized.img.585.low.time1706623570688.png"
+    },
+    {
+        "name": "BMW M2 Coup\u00e9",
+        "type": "BMW Car",
+        "price": "543221",
+        "image": "https:\/\/www.bmw.com.my\/content\/dam\/bmw\/common\/all-models\/m-series\/m2-coupe\/2022\/Navigation\/bmw-m-series-m2-coupe-lci-modelfinder.png\/jcr:content\/renditions\/cq5dam.resized.img.585.low.time1665405919486.png"
+    }
+]
